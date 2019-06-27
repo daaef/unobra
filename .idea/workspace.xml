@@ -2,198 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57c01e8e-a1cf-4501-a017-d96c07f20f14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Unobra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about/adult-bear-beautiful-792535.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about/adult-brainstorming-business-1437908.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about/apple-brainstorming-business-908288.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about/apple-computer-desk-159807.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/about/hands-indoors-man-1204001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/adolescent-beautiful-beauty-247878.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/adult-blur-brick-walls-846741.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/attractive-background-beautiful-756453.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/attractive-beautiful-beautiful-girl-1028927.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/attractive-beautiful-beauty-1375849.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/blue-boy-daylight-1205033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatars/casual-close-up-eyeglasses-1516680.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/art-artistic-artsy-1988681.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/bart-simpson-casual-close-up-1813947copy1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/beautiful-black-close-up-1689731.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/business-calligraphy-chinese-lanterns-1455969.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/camera-casual-fashion-2116503.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/closed-eyes-concept-fashion-2035871.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/double-exposure-2390185_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/fullscreen/adult-beautiful-woman-brunette-2177471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/fullscreen/attractive-beautiful-beauty-2123778.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/fullscreen/black-and-white-face-model-getting-ready-1919235.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/fullscreen/blur-blurred-background-close-up-2189907.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/fullscreen/models-adult-casual-wear-2196688.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/pexels-photo-1287145.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/backgrounds/pexels-photo-1806031.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/abstract-art-bright-682025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/adult-art-artistic-1002237.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/aerial-shot-conceptual-couple-1781390.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/art-blooming-bouquet-1480523.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/art-blur-close-up-1826029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/art-dark-ethnic-1038041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/auditorium-lamps-lights-1649683.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/auto-automobile-automotive-358201.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/black-background-face-paint-group-2045035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/bodypaint-female-girl-50595.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/fashion-fashion-models-female-1300571.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-1057120.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-1280553.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-1334602.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-1670770.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-1707728.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-305250.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-348523.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo-573298.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/blog/pexels-photo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/1c4bfb0e-0b9f-4c19-ba5c-113fb0714514.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/2ed0436b-e3ea-48aa-85ca-755de0719c9a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/3eabc7ab-8bae-44f0-8389-0169389e38c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/4731da4b-b2fb-4c10-aee7-c89484a5d473.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/492492b2-b7d9-4648-a164-f530ecd6321a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/4b983c9a-759d-4921-ba60-dbbcaa702ee5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/699301b6-83ff-47f8-ad46-a6b871e79293.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/69cb9e61-d0b8-4420-b8bd-454c9b9e1dc1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/6b9fcb90-c595-432a-a97c-fcd318b74c04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/6e63c653-6997-42c6-b788-28e9fb6d15b7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/7d1fe64f-fbd7-4e5f-896d-6d79c91f29bf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/7f7b6ede-3a3e-4e17-af25-f881c0121d63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/858e2e28-faae-441c-bd9c-5c490c72b562.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/8b587214-bdcb-4d74-bb61-2480d1d15aa7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/8f65e211-cd41-46dc-8c1d-ba228ac36eb9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/9a6c570f-d03a-4806-9a30-dddc648707d9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/9c30d6d6-6af9-4fb1-bed3-e5ea4df4c281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/aed14647-8ecf-4fef-8274-737d79a7ede1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/b908b85c-f837-4dba-80cf-d961d6fcad29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/d383cf8d-abee-4290-810d-a965f6c0fa6c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/d51e13e6-1320-4227-8bc8-c36aaa82dffd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/clients/d5f831cf-3fb0-490b-aadc-3591c8b64156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo/logo-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo/logo-loader.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/adult-bulb-close-up-973506.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/air-aircraft-aviate-529598.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/audio-cassette-cassette-tape-1626481.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/blades-footwear-hanging-914996.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/blur-close-up-equipment-1034651.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/buttons-console-dark-1637438.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/chocolate-delicious-dessert-890500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/close-up-computer-control-1579240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/abandoned-architecture-building-2096610.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/action-adult-daylight-683241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/action-balance-jumping-2020157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/architecture-building-low-angle-shot-2075059.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/art-artwork-black-1893536.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/art-black-background-bone-1918290.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/beautiful-costume-mask-2058816.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/chair-contemporary-cushions-1439965.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/full_screen_slider/classic-colouful-footwear-2044088.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/grid/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-109003.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-1093236.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-1619654.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-1762539.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-257699.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-544491.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-688988.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-724921.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/pexels-photo-916015.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/abandoned-architecture-building-2096610.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/action-adult-daylight-683241.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/action-balance-jumping-2020157.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/architecture-building-low-angle-shot-2075059.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/art-artwork-black-1893536.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/art-black-background-bone-1918290.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/beautiful-costume-mask-2058816.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/chair-contemporary-cushions-1439965.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/projects/slider/classic-colouful-footwear-2044088.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/achievement-brainstorming-branding-1162968.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/action-asia-blur-1455989.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/action-plan-brainstorming-complex-212286.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/american-casual-cellphone-1262971.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/analysis-analytics-application-590016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/analysis-business-businesswoman-955447.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/analysis-business-coffee-1549702.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/apple-books-computers-115655.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/beautiful-brainstorming-business-1136757.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/services/business-business-people-calendar-1187439.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/team/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/testimonials/adult-beanie-black-background-1529350.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/testimonials/pexels-photo-428340.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/testimonials/pexels-photo-764529.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/testimonials/pexels-photo-809433.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/testimonials/pexels-photo-894156.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/particles_init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/typewriter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo-trans-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo-trans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/side-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/side-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400-1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400-1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900-1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900-1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900-2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_fullscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_particles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_typewriter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_columns_slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_filter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_full_screen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video_home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -209,8 +19,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="106" column="47" lean-forward="true" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
+            <state relative-caret-position="171">
+              <caret line="508" column="111" selection-start-line="508" selection-start-column="111" selection-end-line="508" selection-end-column="111" />
+              <caret line="507" column="111" selection-start-line="507" selection-start-column="111" selection-end-line="507" selection-end-column="111" />
+              <caret line="506" column="111" selection-start-line="506" selection-start-column="111" selection-end-line="506" selection-end-column="111" />
+              <caret line="505" column="111" selection-start-line="505" selection-start-column="111" selection-end-line="505" selection-end-column="111" />
+              <caret line="503" column="127" selection-start-line="503" selection-start-column="122" selection-end-line="503" selection-end-column="127" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -235,6 +49,7 @@
       <find>logo-whi</find>
       <find>pexels-photo-1619654.jpeg</find>
       <find>logo</find>
+      <find>.html</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -306,12 +121,12 @@
       <workItem from="1561584746942" duration="678000" />
       <workItem from="1561602585018" duration="1232000" />
       <workItem from="1561630032243" duration="1232000" />
-      <workItem from="1561650004514" duration="221000" />
+      <workItem from="1561650004514" duration="838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19804000" />
+    <option name="totallyTimeSpent" value="20421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -364,8 +179,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="106" column="47" lean-forward="true" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
+        <state relative-caret-position="171">
+          <caret line="508" column="111" selection-start-line="508" selection-start-column="111" selection-end-line="508" selection-end-column="111" />
+          <caret line="507" column="111" selection-start-line="507" selection-start-column="111" selection-end-line="507" selection-end-column="111" />
+          <caret line="506" column="111" selection-start-line="506" selection-start-column="111" selection-end-line="506" selection-end-column="111" />
+          <caret line="505" column="111" selection-start-line="505" selection-start-column="111" selection-end-line="505" selection-end-column="111" />
+          <caret line="503" column="127" selection-start-line="503" selection-start-column="122" selection-end-line="503" selection-end-column="127" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
