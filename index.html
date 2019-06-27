@@ -1,0 +1,568 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>XEN</title>
+
+		<!-- fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
+
+		<!-- styles -->
+        <link href="assets\css\plugins.css" rel="stylesheet" type="text/css">
+        <link href="assets\css\style.css" rel="stylesheet" type="text/css">
+	</head>
+	<body class="loader">
+		<!-- loading start -->
+		<div class="loading">
+		    <img class="logo-loading" src="assets\logo-trans.png" alt="logo">
+	    </div><!-- loading end -->
+
+		<!-- pointer start -->
+		<div class="pointer" id="pointer">
+			<i class="fas fa-long-arrow-alt-right"></i>
+			<i class="fas fa-search"></i>
+			<i class="fas fa-link"></i>
+		</div><!-- pointer end -->
+
+		<!-- to-top-btn start -->
+		<a class="to-top-btn pointer-small" href="#up">
+			  <span class="to-top-arrow"></span>
+		</a><!-- to-top-btn end -->
+
+	    <!-- header start -->
+	    <header class="fixed-header">
+		    <!-- header-flex-box start -->
+			<div class="header-flex-box">
+			    <!-- logo start -->
+				<a href="index.html" class="logo pointer-large animsition-link">
+					<div class="logo-img-box">
+				        <img class="logo-white" src="assets\logo-trans.png" alt="logo">
+				        <img class="logo-black" src="assets\logo-trans-black.png" alt="logo">
+			        </div>
+		        </a><!-- logo end -->
+
+				<!-- menu-open start -->
+				<div class="menu-open pointer-large">
+					<span class="hamburger"></span>
+				</div><!-- menu-open end -->
+		    </div><!-- header-flex-box end -->
+		</header><!-- header end -->
+
+		<!-- nav-container start -->
+		<nav class="nav-container dark-bg-1">
+			<!-- nav-logo start -->
+			<div class="nav-logo">
+				<img src="assets\logo-trans.png" alt="logo">
+			</div><!-- nav-logo end -->
+
+			<!-- menu-close -->
+			<div class="menu-close pointer-large"></div>
+
+			<!-- dropdown-close-box start -->
+			<div class="dropdown-close-box">
+				<div class="dropdown-close pointer-large">
+					<span></span>
+				</div>
+			</div><!-- dropdown-close-box end -->
+
+			<!-- nav-menu start -->
+			<ul class="nav-menu dark-bg-1">
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change active dropdown-open">
+					<a class="pointer-large nav-link">
+						<span class="nav-btn active" data-text="Home">Home</span>
+					</a>
+
+					<!-- dropdown start -->
+					<ul class="dropdown">
+						<li class="nav-box">
+							<a href="index.html" class="animsition-link pointer-large">
+								<span class="nav-btn active" data-text="Slider Home">Slider Home</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="#" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Video Bg">Video Bg</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="#" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Fullscreen Bg">Fullscreen Bg</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="#" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Particles">Particles</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="#" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Typewriter">Typewriter</span>
+							</a>
+						</li>
+					</ul><!-- dropdown end -->
+
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/pexels-photo-1806031.jpeg);"></div>
+				</li><!-- nav-box end -->
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
+					<a href="about.html" class="animsition-link pointer-large nav-link">
+						<span class="nav-btn" data-text="About">About</span>
+					</a>
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/adolescent-adult-diversity-1034361.jpg);"></div>
+				</li><!-- nav-box end -->
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
+					<a href="services.html" class="animsition-link pointer-large nav-link">
+						<span class="nav-btn" data-text="Services">Services</span>
+					</a>
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/bald-casual-facial-hair-1708528.jpg);"></div>
+				</li><!-- nav-box end -->
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change dropdown-open">
+					<a class="pointer-large nav-link">
+						<span class="nav-btn" data-text="Portfolio">Portfolio</span>
+					</a>
+
+					<!-- dropdown start -->
+					<ul class="dropdown">
+						<li class="nav-box">
+							<a href="portfolio.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Standard">Standard</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="portfolio_full_screen.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="FullScreen">FullScreen</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="portfolio_slider.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Slider 1">Slider 1</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="portfolio_columns_slider.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Slider 2">Slider 2</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="portfolio_filter.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Filter">Filter</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="project.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Single project">Single project</span>
+							</a>
+						</li>
+					</ul><!-- dropdown end -->
+
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/art-artistic-artsy-1988681.jpg);"></div>
+				</li><!-- nav-box end -->
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change dropdown-open">
+					<a class="pointer-large nav-link">
+						<span class="nav-btn" data-text="Blog">Blog</span>
+					</a>
+
+					<!-- dropdown start -->
+					<ul class="dropdown">
+						<li class="nav-box">
+							<a href="blog.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Blog">Blog</span>
+							</a>
+						</li>
+						<li class="nav-box">
+							<a href="single_post.html" class="animsition-link pointer-large">
+								<span class="nav-btn" data-text="Single post">Single post</span>
+							</a>
+						</li>
+					</ul><!-- dropdown end -->
+
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/beautiful-black-close-up-1689731.jpg);"></div>
+				</li><!-- nav-box end -->
+				<!-- nav-box start -->
+				<li class="nav-box nav-bg-change">
+					<a href="contact.html" class="animsition-link pointer-large nav-link">
+						<span class="nav-btn" data-text="Contact">Contact</span>
+					</a>
+					<div class="nav-bg" style="background-image: url(assets/images/backgrounds/double-exposure-2390185_1920.jpg);"></div>
+				</li><!-- nav-box end -->
+			</ul><!-- nav-menu end -->
+		</nav><!-- nav-container end -->
+
+		<!-- animsition-overlay start -->
+		<main class="animsition-overlay" data-animsition-overlay="true">
+			<!-- home-slider start -->
+			<section class="home-slider" id="up">
+				<!-- swiper-wrapper start -->
+			  	<div class="swiper-wrapper">
+				  	<!-- swiper-slide start -->
+				  	<div class="swiper-slide flex-min-height-box home-slide">
+					  	<!-- slide-bg -->
+				      	<div class="slide-bg overlay-loading2 overlay-dark-bg-1" style="background-image:url(assets/bg1.png)"></div>
+				      	<!-- home-slider-content start -->
+					  	<div class="home-slider-content flex-min-height-inner dark-bg-1">
+						  	<!-- flex-container start -->
+					      	<div class="container top-bottom-padding-120 flex-container response-999">
+						      	<!-- column start -->
+						      	<div class="six-columns six-offset">
+							      	<div class="content-left-margin-40">
+								      	<h3 class="large-title-bold capitalize text-color-4">
+							  				<span class="slider-title-fill slider-tr-delay01"
+												  data-text="Get paid To Drive">Get paid To Drive</span><br>
+							  				<span class="slider-overlay2 slider-tr-delay02"
+												  data-text="Earn Extra Money">Earn
+												Extra Money
+											</span><br>
+							  				<span class="slider-overlay2 red-color slider-tr-delay03"
+												  data-text="By Advertising on Your Car">By
+												Advertising on Your Car</span>
+						  				</h3><!--
+						  				<p class="p-style-bold-up text-height-20 d-flex-wrap">
+										  	<span class="slider-title-fill slider-tr-delay04" data-text="XOXO fam brunch">XOXO fam brunch</span>
+										  	<span class="slider-title-fill slider-tr-delay05" data-text="retro intelligentsia">retro intelligentsia</span>
+										  	<span class="slider-title-fill slider-tr-delay06" data-text="live-edge vegan">live-edge vegan</span>
+									  	</p>-->
+									  	<div class="slider-fade slider-tr-delay07 top-margin-30">
+										  	<div class="border-btn-box pointer-large">
+												<div class="border-btn-inner">
+										      		<a href="#" class="border-btn" data-text="Drive for Unobra">Drive for Unobra</a>
+										    	</div>
+											</div>
+									  	</div>
+							      	</div>
+						      	</div><!-- column end -->
+					      	</div><!-- flex-container end -->
+				      	</div><!-- home-slider-content end -->
+				    </div><!-- swiper-slide end -->
+				    <!-- swiper-slide start -->
+				    <div class="swiper-slide flex-min-height-box home-slide">
+					    <!-- slide-bg -->
+				      	<div class="slide-bg" style="background-image:url(assets/bg2.png)"></div>
+				      	<!-- home-slider-content start -->
+					  	<div class="home-slider-content flex-min-height-inner dark-bg-2">
+						  	<!-- flex-container start -->
+					      	<div class="container top-bottom-padding-120 flex-container response-999">
+						      	<!-- column start -->
+						      	<div class="six-columns six-offset">
+							      	<div class="content-left-margin-40">
+								      	<h2 class="slider-overlay2 medium-title capitalize red-color">Reach more
+											audience</h2>
+								      	<h2 class="medium-title capitalize text-color-4">
+							  				<span class="slider-overlay2 slider-tr-delay01">In versatile ways
+											to achieve a</span><br>
+							  				<span class="slider-overlay2 slider-tr-delay02">Higher return on
+												investment</span>
+						  				</h2>
+									  	<div class="slider-fade slider-tr-delay04 top-margin-30">
+										  	<div class="border-btn-box pointer-large">
+												<div class="border-btn-inner">
+										      		<a href="#" class="border-btn"
+													   data-text="Advertise on Unobra">Advertise
+													on Unobra</a>
+										    	</div>
+											</div>
+									  	</div>
+							      	</div>
+						      	</div><!-- column end -->
+					      	</div><!-- flex-container end -->
+				      	</div><!-- home-slider-content end -->
+				    </div><!-- swiper-slide end -->
+				    <!-- swiper-slide start -->
+				    <div class="swiper-slide flex-min-height-box home-slide red-slide">
+					    <!-- slide-bg -->
+				      	<div class="slide-bg" style="background-image:url(assets/bg3.png)"></div>
+				      	<!-- home-slider-content start -->
+					  	<div class="home-slider-content flex-min-height-inner dark-bg-2">
+						  	<!-- flex-container start -->
+					      	<div class="container top-bottom-padding-120 flex-container response-999">
+						      	<!-- column start -->
+						      	<div class="six-columns">
+							      	<h2 class="medium-title capitalize">
+						  				<span class="slider-title-fill slider-tr-delay01"
+											  data-text="Looking to Change">Looking to Change
+										</span><br>
+										<span class="slider-title-fill slider-tr-delay01"
+											  data-text=" the way you advetise?">the way you advetise?
+										</span>
+										<span class=" text-color-4">
+						  				<span class="slider-overlay2 slider-tr-delay02"
+											  data-text="Get started with">Get started with</span><br>
+						  				<span class="slider-overlay2 slider-tr-delay03" data-text="Unobra Today!">Unobra
+											Today!
+										</span>
+										</span>
+					  				</h2>
+								  	<!--<div class="small-title-oswald text-height-20 d-flex-wrap top-margin-20">
+									  	<span class="slider-title-fill slider-tr-delay04 top-margin-10" data-text="Creative team">Creative team</span>
+									  	<span class="slider-title-fill slider-tr-delay05 top-margin-10" data-text="Innovation ideas">Innovation ideas</span>
+									  	<span class="slider-title-fill slider-tr-delay06 top-margin-10" data-text="Best services">Best services</span>
+								  	</div>-->
+								  	<div class="arrow-btn-box slider-fade slider-tr-delay06 top-margin-30">
+										<a href="#" class="arrow-btn red-bg pointer-large">Advertise on Unobra</a>
+									</div>
+								  	<div class="arrow-btn-box slider-fade slider-tr-delay07 top-margin-30">
+										<a href="#" class="arrow-btn pointer-large">Drive for Unobra</a>
+									</div>
+						      	</div><!-- column end -->
+					      	</div><!-- flex-container end -->
+				      	</div><!-- home-slider-content end -->
+				    </div><!-- swiper-slide end -->
+			  	</div><!-- swiper-wrapper end -->
+
+			  	<!-- swiper-button-next start -->
+			  	<div class="swiper-button-next">
+				  	<div class="slider-arrow-next-box">
+					  	<span class="slider-arrow-next"></span>
+				  	</div>
+			  	</div><!-- swiper-button-next end -->
+			  	<!-- swiper-button-prev start -->
+			  	<div class="swiper-button-prev">
+				  	<div class="slider-arrow-prev-box">
+					  	<span class="slider-arrow-prev"></span>
+				  	</div>
+			  	</div><!-- swiper-button-prev end -->
+
+			  	<!-- swiper-pagination -->
+			  	<div class="swiper-pagination"></div>
+
+			  	<!-- scroll-btn start -->
+				<a href="#down" class="scroll-btn pointer-large">
+					<div class="scroll-arrow-box">
+						<span class="scroll-arrow"></span>
+					</div>
+					<div class="scroll-btn-flip-box">
+						<span class="scroll-btn-flip" data-text="Scroll">Scroll</span>
+					</div>
+				 </a><!-- scroll-btn end -->
+			</section><!-- home-slider end -->
+
+			<!-- section start -->
+			<section class="light-bg-1 bottom-padding-30 top-padding-120" data-midnight="black">
+				<!-- container start -->
+				<div data-animation-container="" class="container small bottom-padding-60 text-center">
+					<h2 data-animation-child="" class="large-title text-height-10 text-color-1 overlay-anim-box2"
+						data-animation="overlay-anim2">About <span data-animation-child=""
+																   class="fade-anim-box tr-delay02 red-color top-margin-5"
+																   data-animation="fade-anim">Unobra</span></h2>
+
+				</div><!-- container end -->
+
+				<!-- bottom-padding-90 start -->
+				<div class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container container small">
+								<!-- column start -->
+								<div data-animation-container="" class="six-columns">
+									<div class="content-right-margin-40">
+										<h2 data-animation-child="" class="large-title text-height-10 text-color-1 overlay-anim-box2"
+											data-animation="overlay-anim2">Who <span data-animation-child=""
+																					   class="fade-anim-box tr-delay02 red-color top-margin-5"
+																					   data-animation="fade-anim">Are</span> We</h2>
+										<p data-animation-child="" class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Unobra opens up a totally new world of advertising and marketing possibilities, giving you an oppurtunity to remain longer in the minds of your clients as people retain information better when they are out of their homes</p>
+										<p data-animation-child="" class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Our in-depth analytics platform enables you to precisely measure where and when your campaign will have the highest impact throughout the city</p>
+
+										<div data-animation-child="" class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="about.html" class="arrow-btn pointer-large animsition-link">Learn more</a>
+										</div>
+									</div>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<div class="portfolio-content-bg-box pointer-large hover-box hidden-box">
+										<div class="portfolio-content-bg border-left-rad hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/side-1.jpg)"></div>
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</div><!-- bottom-padding-90 end -->
+
+				<!-- bottom-padding-90 start -->
+				<div class="bottom-padding-90">
+					<!-- portfolio-content start -->
+					<div class="portfolio-content flex-min-height-box">
+						<!-- portfolio-content-inner start -->
+						<div class="portfolio-content-inner flex-min-height-inner">
+							<!-- flex-container start -->
+							<div class="flex-container reverse container small">
+								<!-- column start -->
+								<div class="six-columns top-padding-60">
+									<div class="portfolio-content-bg-box pointer-large hover-box hidden-box">
+										<div
+												class="portfolio-content-bg border-right-rad hover-img overlay-anim-box2 overlay-dark-bg-2" data-animation="overlay-anim2" style="background-image:url(assets/side-2.jpg)"></div>
+									</div>
+								</div><!-- column end -->
+								<!-- column start -->
+								<div data-animation-container="" class="six-columns">
+									<div class="content-left-margin-40">
+										<h2 data-animation-child="" class="large-title text-height-10 text-color-1 overlay-anim-box2"
+											data-animation="overlay-anim2">Why <span data-animation-child=""
+																					   class="fade-anim-box tr-delay02 red-color top-margin-5"
+																					   data-animation="fade-anim">Choose</span> Us</h2>
+										<p data-animation-child="" class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">Unobra is a passionate and innovative advertising company; with the aim of helping brands to dominate everywhere</p>
+										<p data-animation-child="" class="p-style-small text-color-2 fade-anim-box tr-delay04" data-animation="fade-anim">We target the specific audience you want to reach by matching drivers with your brand. Unobra saves you money by helping you reach more people with less via our innovative outdoor advertising solution, your company will be seen in your targeted areas and eventually everywhere else.</p>
+
+										<div data-animation-child="" class="arrow-btn-box top-margin-30 fade-anim-box tr-delay05" data-animation="fade-anim">
+											<a href="about.html" class="arrow-btn pointer-large animsition-link">Learn more</a>
+										</div>
+
+									</div>
+								</div><!-- column end -->
+							</div><!-- flex-container end -->
+						</div><!-- portfolio-content-inner end -->
+					</div><!-- portfolio-content end -->
+				</div><!-- bottom-padding-90 end -->
+			</section><!-- section end -->
+			<!-- light-bg-2 start -->
+			<div class="light-bg-2 top-bottom-padding-120" data-midnight="black">
+				<!-- testimonials-slider start -->
+				<div class="testimonials-slider container small">
+					<!-- swiper-wrapper start -->
+					<div class="swiper-wrapper">
+						<!-- slide start -->
+						<div class="swiper-slide text-center">
+							<img src="assets\images\testimonials\adult-beanie-black-background-1529350.jpg" alt="author">
+							<div class="testimonials-content">
+								<p class="text-color-4 p-style-bold">Copper mug vexillologist +1 prism iPhone fashion axe portland. Hella quinoa woke blog af umami tacos freegan vinyl snackwave microdosing. Fanny pack direct trade XOXO drinking vinegar. Live-edge kinfolk master cleanse brooklyn meh organic man braid. Actually humblebrag sriracha authentic chia. IPhone glossier schlitz fam, la croix keytar retro offal. Artisan selfies mlkshk pinterest gastropub knausgaard live-edge.</p>
+							</div>
+							<div class="text-color-1 small-title-oswald">
+								Balanchaev Balancha, <span class="text-color-2">Investor</span>
+							</div>
+						</div><!-- slide end -->
+						<!-- slide start -->
+						<div class="swiper-slide text-center">
+							<img src="assets\images\testimonials\pexels-photo-428340.jpeg" alt="author">
+							<div class="testimonials-content">
+								<p class="text-color-4 p-style-bold">Bushwick tumeric slow-carb photo booth letterpress franzen kombucha tumblr listicle cronut waistcoat mustache. Jean shorts tilde swag cray. Microdosing heirloom wayfarers YOLO, church-key tattooed cred blue bottle viral lyft tacos retro. Bespoke drinking vinegar single-origin coffee pop-up, whatever air plant austin hexagon selfies tattooed. Fixie taxidermy forage hot chicken, locavore church-key authentic coloring book.</p>
+							</div>
+							<div class="text-color-1 small-title-oswald">
+								Fred Kinney, <span class="text-color-2">Designer</span>
+							</div>
+						</div><!-- slide end -->
+						<!-- slide start -->
+						<div class="swiper-slide text-center">
+							<img src="assets\images\testimonials\pexels-photo-764529.jpeg" alt="author">
+							<div class="testimonials-content">
+								<p class="text-color-4 p-style-bold">Pitchfork vaporware hella, vice next level art party subway tile swag portland. Cliche authentic photo booth, seitan sartorial iPhone brooklyn bicycle rights whatever small batch selvage affogato yuccie adaptogen vinyl. Sartorial franzen tacos cardigan, offal gluten-free pour-over snackwave plaid four dollar toast. Messenger bag keffiyeh church-key, synth iPhone pabst leggings ethical. PBR&B cred hot chicken pork belly.</p>
+							</div>
+							<div class="text-color-1 small-title-oswald">
+								Steve Kong, <span class="text-color-2">Web developer</span>
+							</div>
+						</div><!-- slide end -->
+						<!-- slide start -->
+						<div class="swiper-slide text-center">
+							<img src="assets\images\testimonials\pexels-photo-809433.jpeg" alt="author">
+							<div class="testimonials-content">
+								<p class="text-color-4 p-style-bold">Chambray enamel pin synth shabby chic palo santo. Franzen 90's man bun wayfarers, put a bird on it twee four loko roof party shabby chic kale chips photo booth salvia mixtape lumbersexual. Pug kickstarter hammock unicorn, cardigan ennui celiac roof party. Ramps pitchfork direct trade, food truck tacos biodiesel craft beer. Af hammock listicle vape banjo echo park meditation organic cred subway tile. Echo park DIY.</p>
+							</div>
+							<div class="text-color-1 small-title-oswald">
+								Balanchaev Balancha, <span class="text-color-2">Investor</span>
+							</div>
+						</div><!-- slide end -->
+						<!-- slide start -->
+						<div class="swiper-slide text-center">
+							<img src="assets\images\testimonials\pexels-photo-894156.jpeg" alt="author">
+							<div class="testimonials-content">
+								<p class="text-color-4 p-style-bold">Pok pok authentic fashion axe, vegan venmo leggings raclette tousled twee tattooed. Banh mi humblebrag hammock tacos fashion axe aesthetic vegan sustainable taiyaki thundercats jean shorts tousled cloud bread waistcoat kogi. Cloud bread cardigan messenger bag raw denim swag drinking vinegar. Yuccie jianbing bespoke retro, photo booth salvia hella meh post-ironic cornhole tacos plaid.</p>
+							</div>
+							<div class="text-color-1 small-title-oswald">
+								Fred Kinney, <span class="text-color-2">Designer</span>
+							</div>
+						</div><!-- slide end -->
+					</div><!-- swiper-wrapper end -->
+
+					<!-- swiper-pagination -->
+					<div class="swiper-pagination"></div>
+				</div><!-- testimonials-slider end -->
+			</div><!-- light-bg-2 end -->
+
+		</main><!-- animsition-overlay end -->
+
+		<!-- footer start -->
+		<footer class="footer dark-bg-1">
+			<!-- flex-container start -->
+			<div class="flex-container container top-bottom-padding-90">
+				<!-- column start -->
+				<div class="two-columns bottom-padding-60">
+					<div class="content-right-margin-10 footer-center-mobile">
+						<img class="footer-logo" src="assets\logo-trans.png" alt="logo">
+					</div>
+				</div><!-- column end -->
+				<!-- column start -->
+				<div class="three-columns bottom-padding-60">
+					<div class="content-left-right-margin-10">
+						<ul class="footer-menu text-color-4">
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color active" href="index.html">Home</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="about.html">About</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="services.html">Services</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="portfolio.html">Portfolio</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="blog.html">Blog</a></li>
+							<li><a class="pointer-large animsition-link small-title-oswald hover-color" href="contact.html">Contact</a></li>
+						</ul>
+					</div>
+				</div><!-- column end -->
+				<!-- column start -->
+				<div class="four-columns bottom-padding-60">
+					<div class="content-left-right-margin-10 footer-center-mobile">
+						<ul class="footer-information text-color-4">
+							<li><i class="far fa-envelope"></i><a href="#" class="xsmall-title-oswald">business@unobra.com</a></li>
+							<li>
+								<i class="fas fa-mobile-alt"></i>
+								<a href="#" class="xsmall-title-oswald">+234 705 070 3932</a></li>
+							<li><i class="fas fa-map-marker-alt"></i><a href="#" class="xsmall-title-oswald text-height-17">B03, plot 1002 Statement Hotel, 1st Avenue opposite Shehu Shagari Way, Central Business District, Abuja, Nigeria</a></li>
+						</ul>
+					</div>
+				</div><!-- column end -->
+				<!-- column start -->
+				<div class="three-columns bottom-padding-60">
+					<div class="content-left-margin-10">
+						<ul class="footer-social">
+							<li>
+								<div class="flip-btn-box">
+									<a href="#" class="flip-btn pointer-small" data-text="Instagram">Instagram</a>
+								</div>
+							</li>
+							<li>
+								<div class="flip-btn-box">
+									<a href="#" class="flip-btn pointer-small" data-text="Facebook">Facebook</a>
+								</div>
+							</li>
+							<li>
+								<div class="flip-btn-box">
+									<a href="#" class="flip-btn pointer-small" data-text="Spotify">Spotify</a>
+								</div>
+							</li>
+							<li>
+								<div class="flip-btn-box">
+									<a href="#" class="flip-btn pointer-small" data-text="Vimeo">Vimeo</a>
+								</div>
+							</li>
+							<li>
+								<div class="flip-btn-box">
+									<a href="#" class="flip-btn pointer-small" data-text="Behance">Behance</a>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div><!-- column end -->
+				<!-- column start -->
+				<div class="twelve-columns">
+					<p class="p-letter-style text-color-4 footer-copyright">Copyright&copy; Unobra 2019.All Rights Reserved<!-- <a href="#">Jinna Gik</a>--></p>
+				</div><!-- column end -->
+			</div><!-- flex-container end -->
+		</footer><!-- footer end -->
+
+		<!-- scripts -->
+        <script src="assets\js\plugins.js"></script>
+        <script src="assets\js\main.js"></script>
+	</body>
+<
